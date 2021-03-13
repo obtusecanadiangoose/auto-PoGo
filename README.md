@@ -12,6 +12,7 @@ A simple, brute force attempt at automating Pokemon Go, makes roughly 20,000 sta
  - Sometimes it thinks it's at a rocketstop when it's not (especially at night) and will get itself into the menu or pokedex at times. So far it has managed to fix itself and not cause any damage but YMMV
 ### Bottom Line:
 Quantity > Quality
+
 **I AM NOT RESPONSIBLE FOR DAMAGE TO YOUR POKEMON GO ACCOUNT**
 **YOU ALMOST DEFINITELY WON'T GET BANNED BUT THAT IS ALWAYS A RISK WHEN USING BOTS**
 
