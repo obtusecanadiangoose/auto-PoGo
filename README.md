@@ -14,5 +14,6 @@ A simple, brute force attempt at automating Pokemon Go, makes roughly 20,000 sta
 Quantity > Quality
 
 **I AM NOT RESPONSIBLE FOR DAMAGE TO YOUR POKEMON GO ACCOUNT**
+
 **YOU ALMOST DEFINITELY WON'T GET BANNED BUT THAT IS ALWAYS A RISK WHEN USING BOTS**
 
